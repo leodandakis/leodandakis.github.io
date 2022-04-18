@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Open+Sans&display=swap');
+
+/* 
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif; 
+*/
+
+
+/* -------Contact Us----------------- */
+
+.contact-box{
+    max-width: 850px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    text-align: center;
+    background-color: #fff;
+}
+
+h2{
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+/* -------Contact Us----------------- */
